@@ -1,0 +1,25 @@
+# Build outputs
+*.exe
+*.res
+*.o
+*.obj
+*.dll
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# Temporary & Editor
+.vscode/
+.vs/
+.idea/
+*.ini
+build/
+dist/
+__pycache__/
+*.pyc
+
+# OS generated
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
